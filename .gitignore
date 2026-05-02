@@ -1,0 +1,19 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.idea/
+
+## Rider
+*.DotSettings.user
+
+## Environment
+appsettings.Development.json
+appsettings.*.json
+!appsettings.json
+
+## Test results
+TestResults/
+coverage/
