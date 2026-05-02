@@ -17,3 +17,4 @@ appsettings.*.json
 ## Test results
 TestResults/
 coverage/
+.DS_Store
