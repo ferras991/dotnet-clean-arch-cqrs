@@ -2,8 +2,6 @@
 
 A production-ready template for building .NET 10 REST APIs using **Clean Architecture** and a **custom CQRS implementation** — no MediatR dependency.
 
-Built as a real-world reference from migrating a national-scale loyalty card system (.NET Framework → .NET 10).
-
 ---
 
 ## Why no MediatR?
